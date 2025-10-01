@@ -26,13 +26,3 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
-
-## 📂 Project Structure  
-
-Car-Rental-System/
-│── src/
-│ ├── Main.java
-│ ├── Car.java
-│ ├── Customer.java
-│ ├── RentalService.java
-│── README.md
