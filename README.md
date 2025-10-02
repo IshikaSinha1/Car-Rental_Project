@@ -1,4 +1,4 @@
-# 🚗 Java Car Rental System  
+# 🚗 Car Rental System  
 
 A **console-based Car Rental System** built in **Java** that allows customers to rent and return cars with dynamic pricing.  
 This project demonstrates the use of **Object-Oriented Programming (OOP)** concepts like **Encapsulation, Inheritance, and Polymorphism** to manage car inventory, customers, and rentals efficiently.  
